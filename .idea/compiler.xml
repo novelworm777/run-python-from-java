@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="exec-maven-plugin-test" />
+        <module name="run-python-from-java" />
       </profile>
     </annotationProcessing>
   </component>
